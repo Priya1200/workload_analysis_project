@@ -1,0 +1,78 @@
+{
+  "pri": {
+    "name": "pri",
+    "password": "0919191a0f93df47ddc0cdc723ca1dd0fe13797e6cd80f982ca619ecead95dbf",
+    "history": [
+      {
+        "date": "2026-03-14 20:14",
+        "score": 0.0,
+        "label": "Balanced",
+        "sleep_dur": 0.7083333333333334,
+        "sleep_qual": 0.8,
+        "activity": 0.8,
+        "heart_rate": 0.5333333333333333,
+        "steps": 0.6,
+        "work_hours": 0.3125,
+        "screen_sleep": 0.0,
+        "breaks": 0.6,
+        "screen_time": 0.375
+      },
+      {
+        "date": "2026-03-15 11:40",
+        "score": 0.5,
+        "label": "Moderate",
+        "sleep_dur": 0.5833333333333334,
+        "sleep_qual": 0.65,
+        "activity": 0.15,
+        "heart_rate": 0.5333333333333333,
+        "steps": 0.1,
+        "work_hours": 0.6875,
+        "screen_sleep": 0.075,
+        "breaks": 0.35,
+        "screen_time": 0.375
+      },
+      {
+        "date": "2026-03-21 20:38",
+        "score": 0.0,
+        "label": "Balanced",
+        "sleep_dur": 0.7083333333333334,
+        "sleep_qual": 0.8,
+        "activity": 0.8,
+        "heart_rate": 0.5333333333333333,
+        "steps": 0.6,
+        "work_hours": 0.3125,
+        "screen_sleep": 0.0,
+        "breaks": 0.6,
+        "screen_time": 0.375
+      },
+      {
+        "date": "2026-03-23 13:50",
+        "score": 1.0,
+        "label": "Overloaded",
+        "sleep_dur": 0.5833333333333334,
+        "sleep_qual": 0.65,
+        "activity": 0.15,
+        "heart_rate": 0.5333333333333333,
+        "steps": 0.1,
+        "work_hours": 0.5,
+        "screen_sleep": 0.075,
+        "breaks": 0.15,
+        "screen_time": 0.375
+      },
+      {
+        "date": "2026-04-04 21:24",
+        "score": 0.5,
+        "label": "Moderate",
+        "sleep_dur": 0.5833333333333334,
+        "sleep_qual": 0.65,
+        "activity": 0.45,
+        "heart_rate": 0.5333333333333333,
+        "steps": 0.3,
+        "work_hours": 0.5,
+        "screen_sleep": 0.075,
+        "breaks": 0.35,
+        "screen_time": 0.375
+      }
+    ]
+  }
+}
