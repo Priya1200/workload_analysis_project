@@ -580,7 +580,7 @@ if not st.session_state.logged_in:
                         st.session_state.user_name = res
                         st.session_state.history   = load_users().get(lu,{}).get("history",[])
                         st.success(f"Welcome back, {res}! 🎉")
-                        st.experimental_rerun()
+                        st.rerun()
                     else:
                         st.error(res)
 
