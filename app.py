@@ -643,7 +643,7 @@ with st.sidebar:
     if st.button("🚪 Logout"):
         save_history(st.session_state.username, st.session_state.history)
         for k in ["logged_in","username","user_name","history"]:
-        st.rerun()
+            st.rerun()
 
     st.markdown("<div style='color:#475569;font-size:0.72rem;text-align:center;padding:12px 0;'>⚠️ Not a medical tool.</div>", unsafe_allow_html=True)
 
