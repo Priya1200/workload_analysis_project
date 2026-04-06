@@ -2,4 +2,4 @@ streamlit
 pandas
 numpy
 plotly
-tensorflow-cpu
+tensorflow==2.19.0
